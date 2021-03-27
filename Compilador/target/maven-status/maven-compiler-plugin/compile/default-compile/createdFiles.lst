@@ -14,6 +14,7 @@ com\utesa\compilador\entities\DottedVariable.class
 com\utesa\compilador\mycode\syntax\SimpleCharStream.class
 com\utesa\compilador\traductores\MyCodeToJavaScriptTranslator.class
 com\utesa\compilador\mycode\syntax\TokenMgrError.class
+com\utesa\compilador\mycode\GUI$3.class
 com\utesa\compilador\mycode\syntax\Parser$1.class
 com\utesa\compilador\entities\ArrayAggregate.class
 com\utesa\compilador\entities\Literal.class
